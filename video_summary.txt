@@ -1,0 +1,22 @@
+Resumo do vídeo:
+
+Total de frames analisados: 3326
+Número de anomalias detectadas: 0
+
+Atividades detectadas:
+- Pessoa dançando: detectado 1034 vezes
+- Pessoa acenando para a câmera: detectado 1293 vezes
+- Pessoa mexendo no celular: detectado 400 vezes
+- Pessoa lendo: detectado 41 vezes
+
+Emoções predominantes:
+- neutral: detectado 517 vezes
+- sad: detectado 412 vezes
+- happy: detectado 453 vezes
+- fear: detectado 114 vezes
+- surprise: detectado 161 vezes
+- angry: detectado 61 vezes
+
+Análise geral:
+A atividade mais frequente no vídeo foi 'Pessoa acenando para a câmera', ocorrendo aproximadamente 1293 vezes.
+A emoção predominante foi 'neutral', aparecendo em aproximadamente 517 quadros.
